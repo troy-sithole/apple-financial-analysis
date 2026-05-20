@@ -1,0 +1,12 @@
+# Excel temporary files
+~$*
+
+# Raw 10-K files(too large for GitHub)
+data/raw/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Tableau temporary files
+*.twb~
