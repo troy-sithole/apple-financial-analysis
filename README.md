@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project analyzes Apple Inc.'s financial perfomance between FY2021 and FY2025
+This project analyzes Apple Inc.'s financial performance between FY2021 and FY2025
 using SEC EDGAR Form 10-K filings. The analysis focuses on revenue growth,
 segment mix shift, margin expansion, and scenario-based forecasting to evaluate
 how Apple's Services segment influences long-term profitability.
@@ -39,7 +39,7 @@ to produce an executive-style analytical report.
 ## Objectives
 
 - Analyze Apple's revenue growth trends.
-- Compare Products vs Services perfomance.
+- Compare Products vs Services performance.
 - Examine revenue mix evolution.
 - Evaluate gross margin expansion drivers.
 - Build scenario-based forecasts for FY2026 and FY2027.
@@ -124,6 +124,7 @@ A driver-based forecasting model was built using:
 
 - Services contribution increased from 18.70% to 26.23%.
 - The expanding Services mix structurally improved profitability.
+- Base Case projects Services mix reaching 30.65% by FY2027 - crossing 30% for the first time in Apple's history.
 
 ![Revenue Mix](visualizations/revenue_mix.png)
 
@@ -185,7 +186,7 @@ A driver-based forecasting model was built using:
 
 - Segment margin assumptions held constant across forecast period.
 - Forecasts do not account for macroeconomic shocks or regulatory changes
-- Other Income held constant atFY2025 actual (-$321M).
+- Other Income held constant at FY2025 actual (-$321M).
 - Analysis based on reported financials only.
 
 ---
